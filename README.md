@@ -27,4 +27,4 @@ create table passenger(name varchar(30), gender varchar(20), address varchar(30)
 
 ->add required libraries mysql-dbc-driver and rs2xml.jar
 
-->run thr project.
+->run the project.
